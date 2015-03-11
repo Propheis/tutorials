@@ -31,6 +31,7 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Learn Java Online](http://www.learnjavaonline.org)
 - [udemy](https://www.udemy.com/java-tutorial/)
 - [Awesome Java](https://github.com/akullpp/awesome-java)
+- [GUI](http://docs.oracle.com/javase/tutorial/uiswing/)
 
 ### C++
 - [Learn C++](http://www.learncpp.com)
