@@ -17,6 +17,7 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Rails](#rails)
 - [Haskell](#haskell)
 - [Prolog](#prolog)
+- [Software Specifications](#Software Specifications)
 
 ### Python
 - [Codecademy](http://www.codecademy.com/)
@@ -58,3 +59,6 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 
 ### Prolog
 - [Learn Prolog Now](http://lpn.swi-prolog.org/lpnpage.php?pageid=online)
+
+### Software Specifications
+- [Keith Weaver's Videos](https://www.youtube.com/playlist?list=PLwfG1my4YRFNVRvX1r1s4pa5A-C-wQCO3)
