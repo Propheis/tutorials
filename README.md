@@ -17,7 +17,7 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Rails](#rails)
 - [Haskell](#haskell)
 - [Prolog](#prolog)
-- [Software Specifications](#Software Specifications)
+- [Software Specifications](#software specifications)
 
 ### Python
 - [Codecademy](http://www.codecademy.com/)
