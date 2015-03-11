@@ -12,20 +12,41 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [CSS3](#css3)
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
+- [PHP](#php)
 - [Ruby](#ruby)
 - [Rails](#rails)
 - [Haskell](#haskell)
 - [Prolog](#prolog)
 
 ### Python
+- [Codecademy](http://www.codecademy.com/)
+
 ### Java
+
 ### C++
+
 ### C
+
 ### HTML5
+- [Codecademy](http://www.codecademy.com/)
+
 ### CSS3
+- [Codecademy](http://www.codecademy.com/)
+
 ### JavaScript
+- [Codecademy](http://www.codecademy.com/)
+
 ### jQuery
+- [Codecademy](http://www.codecademy.com/)
+
+### PHP
+- [Codecademy](http://www.codecademy.com/)
+
 ### Ruby
+- [Codecademy](http://www.codecademy.com/)
+
 ### Rails
+
 ### Haskell
+
 ### Prolog
