@@ -20,12 +20,17 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 
 ### Python
 - [Codecademy](http://www.codecademy.com/)
+- [Learn Python](http://www.learnpython.org)
 
 ### Java
+- [Learn Java Online](http://www.learnjavaonline.org)
+- [udemy](https://www.udemy.com/java-tutorial/)
 
 ### C++
+- [Learn C++](http://www.learncpp.com)
 
 ### C
+- [Learn C Online](http://www.learn-c.org)
 
 ### HTML5
 - [Codecademy](http://www.codecademy.com/)
@@ -46,7 +51,10 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Codecademy](http://www.codecademy.com/)
 
 ### Rails
+- [Rails for Zombies](http://railsforzombies.org)
 
 ### Haskell
+- [Learn you a haskell](http://learnyouahaskell.com)
 
 ### Prolog
+- [Learn Prolog Now](http://lpn.swi-prolog.org/lpnpage.php?pageid=online)
