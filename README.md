@@ -19,6 +19,8 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Prolog](#prolog)
 - [Software Specifications](#software specifications)
 - [Git](#git)
+- [iOS](#ios)
+- [Android](#android)
 
 ### Python
 - [Codecademy](http://www.codecademy.com/)
@@ -79,3 +81,10 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 
 ### Git
 - [Git Immersion](http://gitimmersion.com/)
+
+### iOS
+- [Ray Wenderlich](http://www.raywenderlich.com)
+
+### Android
+- [Ray Wenderlich](http://www.raywenderlich.com)
+
