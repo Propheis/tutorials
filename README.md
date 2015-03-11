@@ -18,6 +18,7 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Haskell](#haskell)
 - [Prolog](#prolog)
 - [Software Specifications](#software specifications)
+- [Git](#git)
 
 ### Python
 - [Codecademy](http://www.codecademy.com/)
@@ -62,3 +63,6 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 
 ### Software Specifications
 - [Keith Weaver's Videos](https://www.youtube.com/playlist?list=PLwfG1my4YRFNVRvX1r1s4pa5A-C-wQCO3)
+
+### Git
+- [Git Immersion](http://gitimmersion.com/)
