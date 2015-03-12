@@ -67,6 +67,7 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Awesome Ruby](https://github.com/markets/awesome-ruby)
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
 - [Ruby-Lang](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [Rails Girls](http://guides.railsgirls.com)
 
 ### Rails
 - [Rails for Zombies](http://railsforzombies.org)
