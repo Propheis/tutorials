@@ -17,10 +17,11 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Rails](#rails)
 - [Haskell](#haskell)
 - [Prolog](#prolog)
-- [Software Specifications](#software specifications)
+- [Software Specifications](#softwarespecifications)
 - [Git](#git)
 - [iOS](#ios)
 - [Android](#android)
+- [Debugging](#debugging)
 
 ### Python
 - [Codecademy](http://www.codecademy.com/)
@@ -80,7 +81,7 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 ### Prolog
 - [Learn Prolog Now](http://lpn.swi-prolog.org/lpnpage.php?pageid=online)
 
-### Software Specifications
+### SoftwareSpecifications
 - [Keith Weaver's Videos](https://www.youtube.com/playlist?list=PLwfG1my4YRFNVRvX1r1s4pa5A-C-wQCO3)
 
 ### Git
@@ -93,5 +94,9 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Learn Swift](http://www.learnswift.tips)
 
 ### Android
+- [Google Android Developers](https://developer.android.com/training/index.html)
 - [Ray Wenderlich](http://www.raywenderlich.com)
+- [Tutorials Point](http://www.tutorialspoint.com/android/)
 
+### Debugging
+- [Stack Overflow](http://stackoverflow.com)
