@@ -87,6 +87,8 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 ### iOS
 - [Ray Wenderlich](http://www.raywenderlich.com)
 - [Subjective-C](http://subjc.com/)
+- [Thinkster](https://thinkster.io/a-better-way-to-learn-swift/)
+- [Learn Swift](http://www.learnswift.tips)
 
 ### Android
 - [Ray Wenderlich](http://www.raywenderlich.com)
