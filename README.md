@@ -52,6 +52,7 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Codecademy](http://www.codecademy.com/)
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [Things Every Javascript Developer Should Know](http://ilikekillnerds.com/2015/03/things-every-javascript-developer-should-know/)
 
 ### jQuery
 - [Codecademy](http://www.codecademy.com/)
@@ -85,6 +86,7 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 
 ### iOS
 - [Ray Wenderlich](http://www.raywenderlich.com)
+- [Subjective-C](http://subjc.com/)
 
 ### Android
 - [Ray Wenderlich](http://www.raywenderlich.com)
