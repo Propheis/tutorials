@@ -27,6 +27,7 @@ Feel free to contribute any tutorials or resources you've used in helping you le
 - [Codecademy](http://www.codecademy.com/)
 - [Learn Python](http://www.learnpython.org)
 - [Awesome Python](https://github.com/vinta/awesome-python)
+- [Learn Python, Break Python](http://learnpythonbreakpython.com)
 
 ### Java
 - [Learn Java Online](http://www.learnjavaonline.org)
